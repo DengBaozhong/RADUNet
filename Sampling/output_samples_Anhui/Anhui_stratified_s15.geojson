@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Anhui_stratified_s15",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 116.645309974546919, 32.765859437099238 ], [ 116.645309974546919, 32.827718951790892 ], [ 116.571719986471834, 32.827718951790892 ], [ 116.571719986471834, 32.765859437099238 ], [ 116.645309974546919, 32.765859437099238 ] ] ] } }
+]
+}
